@@ -20,6 +20,11 @@ int numerador, denominador;
     cout << "Ingrese denominador: " <<endl;
     cin >> denominador;
 
+
+
+
+
+
     simplificador(numerador, denominador);
 
     cout << "Menor Factor comun: " << numerador << "/" << denominador << endl;
